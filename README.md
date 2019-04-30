@@ -7,6 +7,7 @@ Implemented the backend logic withmultithreading to count down, validate players
 Designed the frontend graphic user interface (GUI) by Java swing for playing the game and showing the board and discs
 
 
+
 JDK  Used: JavaSE-1.8
 
 Eclipse IDE for Java Developers
